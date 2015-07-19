@@ -1,0 +1,1 @@
+Script grabs all the saved links on a user's reddit profile and exports them to a bookmark.
